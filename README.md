@@ -4,6 +4,7 @@
 ## Problem
 In Silicon Valley, housing market is always hot. If we can predict a district’s median housing price, then we can feed them to another Machine Learning system along with many other signals to determine whether this district is worth investing in a given area or not.
 
+![GitHub Logo](Capture.PNG)
 
 ## Solution
 
