@@ -22,6 +22,7 @@ Finally, we can use RMSE to measure the performance.
 ## How to Run?
 
 Google Colab
+[End-to-End Machine Learning Project-- CA median housing price prediction](https://github.com/groovyxw/End-to-End-Machine-Learning--CA-housing-price-prediction/blob/main/ML_CA_median_housing_price_prediction.ipynb)
 Just click "Run" for each code slip.
 
 ## Results Screenshot
