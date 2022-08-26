@@ -30,5 +30,4 @@ Step2: Just click "Run" for each code slip to walk though the whole process from
 
 
 ## Goole Slide Presentation
-
 [End-to-End Machine Learning Project -- CA Median Housing Price Prediction](https://docs.google.com/presentation/d/1BpSwp4gEzM4z_vOQf3U66tkiXmjyGuEuH8gOWONNUmQ/edit?usp=sharing)
