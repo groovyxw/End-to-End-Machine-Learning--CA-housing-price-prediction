@@ -29,5 +29,5 @@ Step1: Click the above link, then click the icon "Open in Colab"
 Step2: Just click "Run" for each code slip to walk though the whole process from scratch.
 
 
-## Goole Slide Presentation
+## Google Slide Presentation
 [End-to-End Machine Learning Project -- CA Median Housing Price Prediction](https://docs.google.com/presentation/d/1BpSwp4gEzM4z_vOQf3U66tkiXmjyGuEuH8gOWONNUmQ/edit?usp=sharing)
